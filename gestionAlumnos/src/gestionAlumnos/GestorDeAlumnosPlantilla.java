@@ -16,7 +16,7 @@ public class GestorDeAlumnosPlantilla {
 
 	public GestorDeAlumnosPlantilla() {
 		teclado = new Scanner(System.in);
-		alumnos = new Alumno[20];
+		alumnos = new Alumno[300];
 	}
 
 	// ----------------- ARRAYS ---------------------
